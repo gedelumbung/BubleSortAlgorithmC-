@@ -1,0 +1,5 @@
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\algoritma_buble_sort\bin\Debug\algoritma_buble_sort.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\algoritma_buble_sort\bin\Debug\algoritma_buble_sort.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\algoritma_buble_sort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\algoritma_buble_sort\obj\Debug\algoritma_buble_sort.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\algoritma_buble_sort\obj\Debug\algoritma_buble_sort.pdb
